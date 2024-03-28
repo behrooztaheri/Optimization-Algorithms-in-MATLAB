@@ -11,8 +11,9 @@ The following optimization algorithms have been implemented in MATLAB:
 3. Black Widow Optimization Algorithm (BWO)
 4. Ant Colony Optimization (ACO)
 5. Dingo Optimizer Algorithm (DOA)
-6. Dragonfly Algorithm (DA)
-7. Harris hawks optimization (HHO)
+6. Grey Wolf Optimizer (GWO)
+7. Dragonfly Algorithm (DA)
+8. Harris hawks optimization (HHO)
 
 ## Usage
 
