@@ -19,3 +19,15 @@ The following optimization algorithms have been implemented in MATLAB:
 To use these algorithms, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
+
+2. Open MATLAB and navigate to the directory where you cloned the repository.
+
+3. Open the MATLAB scripts corresponding to the desired optimization algorithm.
+
+4. Adjust the algorithm parameters, such as population size, mutation rate, and maximum iterations, according to your requirements.
+
+5. Run the script and observe the optimization process. The script should output the optimized solution and convergence metrics.
+
+## Contact
+
+If you have any questions or suggestions regarding this repository or the course, feel free to contact me at behrooztaheri1372@gmail.com.
